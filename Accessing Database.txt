@@ -1,0 +1,3 @@
+USE project_profit_analysis;
+SHOW TABLES;
+SELECT * FROM startup;
